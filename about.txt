@@ -1,0 +1,4 @@
+hi my name is shivam (learning evry day :))
+made a login password program using C++ 
+this prog just show the basic working of login password 
+mainly used switch , function and file writing concepts 
